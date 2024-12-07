@@ -4,7 +4,7 @@ A javascript pieace of code to create OFFLINE a keypair XAHAU wallet.
 
 It creates a key pair using ed25519 algorithm.
 
-The ed25519 algorithm: seeds have 31 characters (sKdNVBLAmVjgcDrEfDSzTSBqsagHMEd).
+ed25519 algorithm: seeds have 31 characters (sKdNVBLAmVjgcDrEfDSzTSBqsagHMEd).
 
 Step by step guide to set up the wallet:
 
