@@ -16,6 +16,6 @@ It works for the XAHAU Mainnet.
 
 It allows to create a Keypair Mainnet account (which has to be activated later with XAHAU). DO IT OFFLINE, it's purely mathematical.
 
-Once you have created it offline that wallet can receive XAH. Warning: if you use this private key to perform a transaction ONLINE like sending XAH using a computer which is ONLINE, then the private key will become compromised so you should create again a new wallet offline and send your XAH there. These wallets are secure just if you don't perform transactions online with the computer where the key pair has been generated.
+Once you have created it offline that wallet can receive XAH. Warning: if you use this private key to perform a transaction ONLINE, like sending XAH, using a computer which is connected to the internet, then the private key will become compromised so you should create again a new wallet offline and send your XAH there. These wallets are secure just if you don't perform transactions online with the computer where the key pair has been generated.
 
 You can try the online demo here: https://skunk-proper-smoothly.ngrok-free.app/tools/createKeypairXAHAUwalletOffline/xahauwallet
