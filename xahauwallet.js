@@ -1,6 +1,10 @@
 // ******************************************************
 // ************* Get the Preferred Network **************
 // ******************************************************
+// It's not necesssary to generate the keypair
+// I put it here and in the visual interface in order to 
+// people that doesn't know exactly what's going one 
+// understands that the keypair is valid in XAHAU.
 
 function getNet() {
   let net;
