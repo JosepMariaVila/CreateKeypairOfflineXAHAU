@@ -8,9 +8,11 @@ function getNet() {
   return net;
 } // End of getNet()
 
+
 // *******************************************************
 // ************* Create XAHAU Mainnet Account ************
 // *******************************************************
+
 async function getAccount2() {
   const wallet = xrpl.Wallet.generate("ed25519");
   console.log(wallet);
@@ -21,6 +23,7 @@ async function getAccount2() {
   standbyAccountField.value = wallet.address;
   standbySeedField.value = wallet.seed;
 } // End of getAccount2()
+
 
 async function reload() {
   window.location.reload();
