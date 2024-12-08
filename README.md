@@ -1,6 +1,6 @@
 # CreateXAHAUwalletKeypairOffline
 
-A javascript pieace of code to create OFFLINE a keypair XAHAU wallet.
+A javascript piece of code to create OFFLINE a keypair XAHAU wallet.
 
 It creates a key pair using ed25519 algorithm.
 
